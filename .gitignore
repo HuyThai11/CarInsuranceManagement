@@ -1,0 +1,35 @@
+# NetBeans build & dist artifacts
+build/
+dist/
+nbproject/private/
+
+# Compiled Java class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Transactional temporary & backup files
+*.tmp
+*.bak
+
+# Virtual machine crash logs
+hs_err_pid*
+replay_pid*
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
